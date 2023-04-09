@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Antim Prisacaru!  
   
 
-<a href="https://github.com/antimprisacaru" target="_blank">
+<a href="https://github.com/antim-prisacaru" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/antim-prisăcaru-816661152" target="_blank">
@@ -83,7 +83,7 @@ In addition to my project work at .msg, I mentored colleagues and interns and he
 
 ## Github Stats 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=antimprisacaru&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimprisacaru&hide_border=true&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=antim-prisacaru&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antim-prisacaru&hide_border=true&layout=compact" align="right" />
 </div>
 <br/>  
