@@ -24,7 +24,6 @@ In addition to my project work at .msg, I mentored colleagues and interns and he
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on .msg Passbrains  
   
@@ -38,20 +37,10 @@ In addition to my project work at .msg, I mentored colleagues and interns and he
 - ⚡ Fun fact: I'm a huge car nerd  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -89,43 +78,12 @@ In addition to my project work at .msg, I mentored colleagues and interns and he
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=antimprisacaru&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimprisacaru&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+## Github Stats 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=antimprisacaru&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimprisacaru&hide_border=true&layout=compact" align="right" />
+</div>
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=antimprisacaru&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
