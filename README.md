@@ -56,6 +56,5 @@ In addition to my project work at .msg, I mentored colleagues and interns and he
 ## Github Stats 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=antim-prisacaru&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antim-prisacaru&hide_border=true&layout=compact" align="right" />
 </div>
 <br/>  
