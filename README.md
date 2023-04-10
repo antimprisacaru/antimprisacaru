@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Antim Prisacaru!  
-  
+
 
 <a href="https://github.com/antim-prisacaru" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -8,14 +8,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+<br><br>
 
 
+<p>I launched my programming career in 2019 at .msg with Dipko, a SaaS solution for German municipalities that streamlined ticket sales and self-service operations. Using a tech stack that included a monolithic nodejs server, AWS services (EC2, RDS, Cognito, Lambda, Dynamodb, etc.), and Angular with an emphasis on modularity and lazy loading, I started with front-end development. I developed a component library using Storybook and set up Chromatic testing for CI, and also contributed to the development and maintenance of a public API where I interacted with tenants to provide support. Notable accomplishments were enhancing application build optimization through bundling and distribution optimization, as well as writing and maintaining automated tests for features I was responsible for.</p>
 
-I launched my programming career in 2019 at .msg with Dipko, a SaaS solution for German municipalities that streamlined ticket sales and self-service operations. Using a tech stack that included a monolithic nodejs server, AWS services (EC2, RDS, Cognito, Lambda, Dynamodb, etc.), and Angular with an emphasis on modularity and lazy loading, I started with front-end development. I developed a component library using Storybook and set up Chromatic testing for CI, and also contributed to the development and maintenance of a public API where I interacted with tenants to provide support. Notable accomplishments were enhancing application build optimization through bundling and distribution optimization, as well as writing and maintaining automated tests for features I was responsible for.
+<p>I then joined Passbrains in 2022, a fully serverless crowd testing management platform based on the AWS Amplify service. There, I enhanced the project setup by optimizing the way our serverless functions shared code, achieving better performance. My greatest accomplishment here was researching and implementing module federation in order to integrate an existing solution with our platform, reducing development effort and creating a strong micro-frontend solution.</p>
 
-I then joined Passbrains in 2022, a fully serverless crowd testing management platform based on the AWS Amplify service. There, I enhanced the project setup by optimizing the way our serverless functions shared code, achieving better performance. My greatest accomplishment here was researching and implementing module federation in order to integrate an existing solution with our platform, reducing development effort and creating a strong micro-frontend solution.
-
-In addition to my project work at .msg, I mentored colleagues and interns and helped organize five editions of our internship program, CareerStart. I also organized workshops and presentations, including live coding sessions, on topics like “Why is frontend underrated” and "Embracing future with a purpose!"
+<p>In addition to my project work at .msg, I mentored colleagues and interns and helped organize five editions of our internship program, CareerStart. I also organized workshops and presentations, including live coding sessions, on topics like “Why is frontend underrated” and "Embracing future with a purpose!"</p>
   
   
 
